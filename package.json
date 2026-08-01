@@ -1,7 +1,7 @@
 {
   "name": "duocards-ubersicht-widget",
   "version": "1.0.0",
-  "description": "A macOS Übersicht widget for DuoCards that fetches vocabulary and displays it on the desktop.",
+  "description": "A macOS Uebersicht widget for DuoCards that fetches vocabulary and displays it on the desktop.",
   "type": "commonjs",
   "scripts": {
     "fetch": "node scripts/fetch-vocab.js",

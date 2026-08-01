@@ -35,7 +35,6 @@ npm install
 ├── widget
 │   └── duocards-vocab.widget
 │       └── index.jsx
-└── release
 
 ## Usage
 
@@ -92,8 +91,6 @@ The project uses local runtime files that should not be committed, including:
 
 ## Notes
 
-- The release directory should only remain in the repository if it serves a real purpose for packaging, export, or manual distribution.
-- If release is no longer used, it should be removed to keep the repository clean.
 - Before running the scripts, make sure local runtime directories such as state, output, and logs exist if required by your workflow.
 
 ## License
