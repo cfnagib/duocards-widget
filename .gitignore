@@ -1,0 +1,12 @@
+node_modules/
+output/*.json
+logs/*.log
+logs/*.txt
+state/*.json
+state/*.txt
+.DS_Store
+*.tmp
+*.bak
+*.backup.js
+*.old.js
+*.copy.js
