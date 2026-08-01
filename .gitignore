@@ -1,10 +1,17 @@
+# Dependencies
 node_modules/
+
+# Local runtime data
+state/*.json
+state/*.txt
 output/*.json
 logs/*.log
 logs/*.txt
-state/*.json
-state/*.txt
+
+# macOS
 .DS_Store
+
+# Temporary / backup files
 *.tmp
 *.bak
 *.backup.js
